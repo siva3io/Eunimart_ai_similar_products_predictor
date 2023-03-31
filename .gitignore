@@ -1,0 +1,15 @@
+*.idea
+*.pyc
+*.vscode
+.env
+venv
+env
+.vscode
+dummy.json
+*.pkl
+*.json
+*.ann
+Amazon_USA
+Amazon_India
+Flipkart
+similar-products
